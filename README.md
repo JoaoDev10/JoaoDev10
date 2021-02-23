@@ -4,5 +4,5 @@
 - :thinking: I’m looking for help with REACTJS and NODEJS
 - :dart: Full stack developer
 - :hourglass: Looking for experience
-- :speech_balloon: E-mail: JoaoDev10@gmail.com
+- :speech_balloon: E-mail: joaodev10@gmail.com
 - :muscle: Constantly evolving
